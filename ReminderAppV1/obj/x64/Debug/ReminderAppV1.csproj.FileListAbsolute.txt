@@ -1,0 +1,17 @@
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\ReminderAppV1.exe.config
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\ReminderAppV1.exe
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\ReminderAppV1.pdb
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\x64\Debug\ReminderAppV1.csprojAssemblyReference.cache
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\x64\Debug\ReminderAppV1.csproj.CoreCompileInputs.cache
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\x64\Debug\ReminderAppV1.exe
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\x64\Debug\ReminderAppV1.pdb
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Twilio.dll
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\x64\Debug\Twilio.xml
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\x64\Debug\ReminderAppV1.csproj.CopyComplete

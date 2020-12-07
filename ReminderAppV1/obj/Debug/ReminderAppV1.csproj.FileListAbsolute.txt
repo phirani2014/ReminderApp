@@ -1,0 +1,7 @@
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\Debug\ReminderAppV1.exe.config
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\Debug\ReminderAppV1.exe
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\bin\Debug\ReminderAppV1.pdb
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\Debug\ReminderAppV1.csprojAssemblyReference.cache
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\Debug\ReminderAppV1.csproj.CoreCompileInputs.cache
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\Debug\ReminderAppV1.exe
+C:\Users\Priyant Hirani\source\repos\ReminderAppV1\ReminderAppV1\obj\Debug\ReminderAppV1.pdb

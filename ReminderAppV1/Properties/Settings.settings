@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReminderAppV1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="filepath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Enter path for your file here</Value>
+    </Setting>
+    <Setting Name="accountSid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">enter accountSid</Value>
+    </Setting>
+    <Setting Name="authToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">enter authToken</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
